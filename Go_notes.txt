@@ -1,0 +1,1 @@
+[Cross compiling] = GOOS=linux GOARCH=arm64 go build -o advgo-arm64 main.go
